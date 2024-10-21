@@ -1,1 +1,1 @@
-A SERIES OF FUN PYTHON PROJECTS OVER THE SPAN OF 100 DAYS 
+15 Python projects made using various functions and packages
